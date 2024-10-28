@@ -23,8 +23,8 @@
 .carousel-indicators [data-bs-target]{
     background-color: #4CAF4F;
     border-radius: 50%;
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
 }
 
 .business{
@@ -70,7 +70,7 @@ ul {
 
 .gfg {
     margin-top: 6%; 
-    margin-bottom: 15%;
+    margin-bottom: 17%;
     position: relative;
     width: 100%;
     text-align: center;
