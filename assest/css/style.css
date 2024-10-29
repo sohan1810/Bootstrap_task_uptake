@@ -96,12 +96,12 @@ ul {
 
 
 @media screen and (max-width : 768px) {
-    .bg-dark {
-      text-align: center;
-    }
-  
-  
+   
+  .Community_start{
+    margin-top: 30px;
   }
+  
+  } 
 
 /* @media screen and (max-width : 356px) {
     .img-fluid {
